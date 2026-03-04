@@ -1,0 +1,180 @@
+{
+  "version": "1.5",
+  "default_core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+  "default_core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 3,
+  "left_thumbnail_mode": 2,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 1,
+  "items": [
+    {
+      "path": "sd:/games/neogeo/3countb.zip",
+      "label": "3 Count Bout",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "E59385A9|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/2020bb.zip",
+      "label": "2020 Super Baseball",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "A180DB80|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/alpham2.zip",
+      "label": "Alpha Mission II",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "68435EAE|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/androdun.zip",
+      "label": "Andro Dunos",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "6906267A|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/aodk.zip",
+      "label": "Aggressors of Dark Kombat",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "17303CE0|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/aof.zip",
+      "label": "Art of Fighting",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "0AC09D00|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/aof2.zip",
+      "label": "Art of Fighting 2",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "5BE820B8|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/aof3.zip",
+      "label": "Art of Fighting 3 - The Path of the Warrior",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "0A015CAC|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/sonicwi2.zip",
+      "label": "Aero Fighters 2",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "07CEC263|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/sonicwi3.zip",
+      "label": "Aero Fighters 3",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "0F78F395|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/b2buster.zip",
+      "label": "Bang Bang Busters",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "316C55E8|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/bakatono.zip",
+      "label": "Bakatonosama Mahjong Manyuuki",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "D22BB73E|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/bangbead.zip",
+      "label": "Bang Bead",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "2AEDCA8D|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/bjourney.zip",
+      "label": "Blue's Journey",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "7297071F|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/blazstar.zip",
+      "label": "Blazing Star",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "4459FBD4|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/breakers.zip",
+      "label": "Breakers",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "238A09F5|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/breakrev.zip",
+      "label": "Breakers Revenge",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "8CCCBB6B|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/bstars.zip",
+      "label": "Baseball Stars Professional",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "CCDA2B98|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/bstars2.zip",
+      "label": "Baseball Stars 2",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "69F18B1D|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/burningf.zip",
+      "label": "Burning Fight",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "6F36B49C|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/flipshot.zip",
+      "label": "Battle Flip Shot",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "E17515B2|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    }
+  ]
+}
