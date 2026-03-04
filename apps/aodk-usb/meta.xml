@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
-  <name>Alpha Mission II</name>
+  <name>Aggressors of Dark Kombat</name>
   <author>Libretro &amp; R-Sam</author>
   <version>1.22.2.usb</version>
   <release_date>2025-11-20 10:41</release_date>
   <short_description>SNK Neo Geo Emulator</short_description>
-  <long_description>Alpha Mission II
+  <long_description>Aggressors of Dark Kombat
 
-- Developer &amp; Publisher: SNK
-- Genre: Vertically scrolling shooters
-- Release Date: 1991-07-01
+- Developer: ADK
+- Publisher: SNK
+- Genre: Fighting
+- Release Date: 1994-08-26
 - Max Players: 2
 
 Wii Channel: usb:/wad/neogeo
@@ -18,6 +19,6 @@ Website: https://github.com/R-Sam-1980/neogeo</long_description>
   <ahb_access/>
   <arguments>
     <arg>usb:/games/neogeo</arg>
-    <arg>alpham2.zip</arg>
+    <arg>aodk.zip</arg>
   </arguments>
 </app>
