@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "default_core_path": "sd:/apps/neogeo-vm-sd/fbalpha2012_neogeo_libretro_wii.dol",
+  "default_core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 3,
+  "left_thumbnail_mode": 2,
+  "items": [
+    {
+      "path": "sd:/games/neogeo/mslug3.zip",
+      "label": "Metal Slug 3",
+      "core_path": "sd:/apps/neogeo-vm-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "0680386F|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mslug4.zip",
+      "label": "Metal Slug 4",
+      "core_path": "sd:/apps/neogeo-vm-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "94DCF726|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mslug5.zip",
+      "label": "Metal Slug 5",
+      "core_path": "sd:/apps/neogeo-vm-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "F3141BA2|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mslugx.zip",
+      "label": "Metal Slug X - Super Vehicle-001",
+      "core_path": "sd:/apps/neogeo-vm-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "FCA81450|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    }
+  ]
+}
