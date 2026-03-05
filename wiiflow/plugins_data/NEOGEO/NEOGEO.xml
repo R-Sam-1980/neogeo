@@ -13,7 +13,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 	<genre>Sports</genre>
 	</locale>	
 	<locale lang="ZHCN">
-		<title>2020超级棒球</title>
+		<title># - 2020超级棒球</title>
 		<genre>运动</genre>
 	</locale>
 		<developer>Pallas</developer>
@@ -36,7 +36,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 	<genre>Fighting</genre>
 	</locale>	
 	<locale lang="ZHCN">
-		<title>三回合较量</title>
+		<title>S - 三回合较量</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>UPL</developer>
@@ -59,7 +59,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 	<genre>Shooting / Vertical</genre>
 	</locale>	
 	<locale lang="ZHCN">
-		<title>四国战机2</title>
+		<title>S - 四国战机2</title>
 		<genre>射击 / 纵向</genre>
 	</locale>
 		<developer>Video System</developer>
@@ -82,7 +82,7 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 	<genre>Shooting / Vertical</genre>
 	</locale>	
 	<locale lang="ZHCN">
-		<title>四国战机3</title>
+		<title>S - 四国战机3</title>
 		<genre>射击 / 纵向</genre>
 	</locale>
 		<developer>Video System</developer>
@@ -109,7 +109,7 @@ Unique to Aggressors of Dark Kombat is the combination of traditional side-scrol
 	<genre>Fighting</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>痛快进行曲</title>
+		<title>T - 痛快进行曲</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>ADK</developer>
@@ -132,7 +132,7 @@ Unique to Aggressors of Dark Kombat is the combination of traditional side-scrol
 	<genre>Shooting / Vertical</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>阿尔法任务2</title>
+		<title>A - 阿尔法任务2</title>
 		<genre>射击 / 纵向</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -157,7 +157,7 @@ Fight your way through seven stages in this horizontal-scrolling game, and defea
 	<genre>Shooting / Horizontal</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>勇者之击</title>
+		<title>Y - 勇者之击</title>
 		<genre>射击 / 横向</genre>
 	</locale>
 		<developer>Visco</developer>
@@ -180,7 +180,7 @@ Fight your way through seven stages in this horizontal-scrolling game, and defea
 	<genre>Fighting</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>龙虎之拳1</title>
+		<title>L - 龙虎之拳1</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -207,7 +207,7 @@ The entire cast from the first Art of Fighting is here (with the exceptions of T
 	<genre>Fighting</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>龙虎之拳2</title>
+		<title>L - 龙虎之拳2</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -232,7 +232,7 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 	<genre>Fighting</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>龙虎之拳3 斗士之路</title>
+		<title>L - 龙虎之拳3 斗士之路</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -255,7 +255,7 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 	<genre>Board Game / Casino</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>傻瓜殿下麻将漫游记</title>
+		<title>S - 傻瓜殿下麻将漫游记</title>
 		<genre>棋牌</genre>
 	</locale>
 		<developer>Monolith</developer>
@@ -278,7 +278,7 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 	<genre>Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>爆炸克星</title>
+		<title>B - 爆炸克星</title>
 		<genre>平台</genre>
 	</locale>
 		<developer>Visco</developer>
@@ -302,7 +302,7 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 	<genre>Sports</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>碰碰球</title>
+		<title>P - 碰碰球</title>
 		<genre>运动</genre>
 	</locale>
 		<developer>Visco</developer>
@@ -327,7 +327,7 @@ The standard rules of baseball still apply, but it adds power-ups that the playe
 	<genre>Sports</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>棒球之星2</title>
+		<title>B - 棒球之星2</title>
 		<genre>运动</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -350,7 +350,7 @@ The standard rules of baseball still apply, but it adds power-ups that the playe
 	<genre>Sports</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>棒球之星1</title>
+		<title>B - 棒球之星1</title>
 		<genre>运动</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -373,7 +373,7 @@ The standard rules of baseball still apply, but it adds power-ups that the playe
 	<genre>Sports</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>盾牌大战</title>
+		<title>D - 盾牌大战</title>
 		<genre>运动</genre>
 	</locale>
 		<developer>Visco</developer>
@@ -396,7 +396,7 @@ The standard rules of baseball still apply, but it adds power-ups that the playe
 	<genre>Shooting / Horizontal</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>闪亮之星</title>
+		<title>S - 闪亮之星</title>
 		<genre>射击 / 横向</genre>
 	</locale>
 		<developer>Yumekobo</developer>
@@ -425,7 +425,7 @@ You are on a time limit. If you run out of time, a black creature appears out of
 	<genre>Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>蓝色之旅</title>
+		<title>L - 蓝色之旅</title>
 		<title>平台</title>
 	</locale>
 		<developer>ADK</developer>
@@ -448,7 +448,7 @@ You are on a time limit. If you run out of time, a black creature appears out of
 	<genre>Fighting</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>爆裂人</title>
+		<title>B - 爆裂人</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>Visco</developer>
@@ -471,7 +471,7 @@ You are on a time limit. If you run out of time, a black creature appears out of
 	<genre>Fighting</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>爆裂人复仇</title>
+		<title>B - 爆裂人复仇</title>
 		<genre>格斗</genre>
 	</locale>
 		<developer>Visco</developer>
@@ -496,7 +496,7 @@ Burning Fight is a side-scrolling street-fighting game similar to Final Fight. A
 	<genre>Beat 'em up</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>热血快打</title>
+		<title>R - 热血快打</title>
 		<title>动作</title>
 	</locale>
 		<developer>SNK</developer>
@@ -519,7 +519,7 @@ Burning Fight is a side-scrolling street-fighting game similar to Final Fight. A
 	<genre>Puzzle</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>泡泡龙1</title>
+		<title>P - 泡泡龙1</title>
 		<genre>益智</genre>
 	</locale>
 		<developer>Taito</developer>
@@ -542,7 +542,7 @@ Burning Fight is a side-scrolling street-fighting game similar to Final Fight. A
 	<genre>Puzzle</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>泡泡龙2</title>
+	<title>P - 泡泡龙2</title>
 	<genre>益智</genre>
 	</locale>
 		<developer>Taito</developer>
@@ -582,7 +582,7 @@ Esto es debido al argumento, explicado en la intro. En un remoto laboratorio, un
 	<genre>Shoot'em Up / Vertical,Shoot'em Up</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>蕃茄超人</title>
+		<title>F - 蕃茄超人</title>
 		<genre>射击 / 纵向</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -605,7 +605,7 @@ Esto es debido al argumento, explicado en la intro. En un remoto laboratorio, un
 	<genre>Quiz / Japanese</genre>
 	</locale>
 	<locale lang="ZHCN">
-		<title>樱桃小丸子智力问答</title>
+		<title>Y - 樱桃小丸子智力问答</title>
 		<genre>问答 / 日语</genre>
 	</locale>
 		<developer>Takara</developer>
@@ -646,7 +646,7 @@ Esto es debido al argumento, explicado en la intro. En un remoto laboratorio, un
 	<title>Chotetsu Brikin'ger</title>
 	</locale>
 	<locale lang="ZHCN">
-		<title>超铁战机</title>
+		<title>C - 超铁战机</title>
 		<genre>射击 / 横向</genre>
 	</locale>
 		<developer>Saurus</developer>
@@ -1105,8 +1105,8 @@ C'est un Beat them Up un peu spécial, dont les déplacements se font sur une se
 	<title>Tengai Makyou - Shin Den</title>
 	</locale>
 	<locale lang="ZHCN">
-	<title>天外魔境真传</title>
-	<genre>格斗 / 对战</genre>
+		<title>T - 天外魔境真传</title>
+		<genre>格斗</genre>
 	</locale>
 		<developer>Red Company</developer>
 		<publisher>Hudson</publisher>
@@ -2673,7 +2673,7 @@ The game features six distinct stages and four weapons.</synopsis>
 	<title>Ashita no Joe Densetsu</title>
 	</locale>
 	<locale lang="ZHCN">
-	<title>明日之丈</title>
+	<title>M - 明日之丈</title>
 	<genre>动作</genre>
 	</locale>
 		<developer>Wave Corp</developer>
@@ -2701,25 +2701,11 @@ Depending of the originating country, there are different game modes:
 2. Puzzle: You have a limited time to clear a fixed set of balloons before time runs out.
 
 3. VS Mode: Fight the CPU or a fellow player in a direct split-screen duel. Each character has specific item balloons during gameplay.</synopsis>
-	<genre>Puzzle-Game / Throw</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>En Magical Drop II, controlas a un payaso que puede lanzar globos. Tienes que hacer coincidir tres globos del mismo color o más para hacerlos estallar y limpiar la pantalla. Hay globos especiales que no se pueden quitar con facilidad y power-ups que limpian filas enteras o proporcionan ayuda adicional. Dependiendo del país de origen, existen diferentes modos de juego: Supervivencia, Puzzle y Modo VS.</synopsis>
-	<genre>Rompecabezas / Lanzar,Rompecabezas</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Dans Magical Drop II sur Neo Geo, vous contrôlez un clown qui attrape et lance des ballons. Vous devez les rassembler par couleurs identiques pour qu'ils explosent et libèrent de la place. Le mode deux joueurs vous permet d'affronter le CPU ou un ami.</synopsis>
-	<genre>Puzzle-Game / Lancer,Puzzle-Game</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Puzzle / Werfen,Puzzle</genre>
-	</locale>
-	<locale lang="PT">
-	<genre>Quebra-cabeças / Lançar,Quebra-cabeças</genre>
-	</locale>
+	<genre>Puzzle</genre>
+	</locale>	
 	<locale lang="ZHCN">
-	<title>魔法微量球2</title>
-	<genre>益智 / 投掷消除</genre>
+		<title>M - 魔法微量球2</title>
+		<genre>益智</genre>
 	</locale>
 		<developer>Data East</developer>
 		<publisher>SNK</publisher>
@@ -2742,27 +2728,11 @@ Depending of the originating country, there are different game modes:
 You can play the game in single player modes or versus a friend in versus mode. In versus mode you get to pick your character, much like in a fighting game, each with their own counter attacks and abilities.
 
 For the PSX version, the first Magical Drop was included on a separate disc.</synopsis>
-	<genre>Puzzle-Game / Throw</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Controlas a un payaso que lanza globos hacia lo alto de la pantalla donde hay un grupo de globos de varios colores. El objetivo es juntar tres o más del mismo color para hacerlos explotar de forma separada o creando combos con otros colores.nnModo de un jugador o contra un amigo en modo versus. En el modo versus hay que elegir a un personaje, al igual que en un juego de lucha, cada uno con sus propios ataques y habilidades.</synopsis>
-	<genre>Rompecabezas / Lanzar,Rompecabezas</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Dans Magical Drop III sur Neo Geo, vous contrôlez un clown qui attrape et lance des ballons. Vous devez les rassembler par couleurs identiques pour qu'ils explosent et libèrent de la place. Le mode deux joueurs vous permet d'affronter le CPU ou un ami, et cette fois-ci, vous pouvez choisir votre personnage, doté d'attaques qui lui sont propres.</synopsis>
-	<genre>Puzzle-Game / Lancer,Puzzle-Game</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Puzzle / Werfen,Puzzle</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>Esta é a terceira parte da série de quebra-cabeças Magical Drop. No jogo, você controla um palhaço que joga bolinhas na tela no aglomerado de bolinhas, pedras e cristais multicoloridos. O objetivo é obter três ou mais peças da mesma cor para remover as bolinhas, mas você também pode pegar mais de uma na hora para criar combos e obter melhores blocos "especiais" na parte superior da tela.
-Você pode jogar o jogo nos modos single player ou contra um amigo no modo versus. No modo versus, você escolhe seu personagem, muito parecido com um jogo de luta, cada um com seus próprios contra-ataques e habilidades.</synopsis>
-	<genre>Quebra-cabeças / Lançar,Quebra-cabeças</genre>
-	</locale>
+	<genre>Puzzle</genre>
+	</locale>	
 	<locale lang="ZHCN">
-	<title>魔法微量球3</title>
-	<genre>益智 / 投掷消除</genre>
+		<title>M - 魔法微量球3</title>
+		<genre>益智</genre>
 	</locale>
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
@@ -2781,25 +2751,11 @@ Você pode jogar o jogo nos modos single player ou contra um amigo no modo versu
 	<locale lang="EN">
 	<title>Magician Lord</title>
 	<synopsis>Magician Lord puts you in charge of Elta, a wizard who has the task of collecting eight books of wisdom from the clutches of Az Atorse, the god of destruction. By collecting the right power-ups along the way, you can transform into different characters, including the Rajin, Samurai, Waterman, Shinobi, Poseidon, and Dragon Warrior. Each character has different abilities. There are eight areas in the game, and each stage ends with you trying to defeat both a guardian and the end-of-area boss (which are basically Atorse's incarnations). One of the first games that demonstrated the graphical abilities of the Neo-Geo.</synopsis>
-	<genre>Plateform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Hace miles de años en la pacífica Cadacis, Gal Agiese llamó a varios demonios y conspiró para apoderarse de la tierra. Cuando todas las esperanzas estaban perdidas, un joven héroe apareció y, con ayuda de la magia, derrotó a todos los demonios. Al final, encerró a Gal Agiese y Atorse Az en una colección de 8 libros mágicos. El joven héroe fue el fundador de la estirpe de magos Magician Lord. Sin embargo, Gal Agiese logró liberarse y robó todos los libros. nnElta, último descendiente  de la antigua estirpe de los Magician Lord, tiene la misión de derrotar a Gal Agiese, para ello tendrá que usar la misma magia que sus antepasados usaron para vencerle, pero antes tendrá que derrotar a sus lugartenientes y recuperar los 8 libros, repartidos en las 8 fases de las que consta el juego.nn</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Magician Lord sur Neo Geo est un jeu mêlant action et aventure où vous incarnez le puissant mage Elta et devez vous frayer un chemin à travers huit niveaux truffés d'ennemis démoniaques. Utilisez vos pouvoirs magiques pour vous transformer en dragon, en samouraï et en bien d'autres choses !</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>幻魔大战</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 幻魔大战</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>ADK</developer>
 		<publisher>SNK</publisher>
@@ -2818,29 +2774,11 @@ Você pode jogar o jogo nos modos single player ou contra um amigo no modo versu
 	<locale lang="EN">
 	<title>Mahjong Kyo Retsuden</title>
 	<synopsis>A mahjong game where you can create your own face for your character!</synopsis>
-	<genre>Mahjong,Asiatic board game</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>¡Un juego de mahjong donde podrás crear tu propia cara para tu personaje!</synopsis>
-	<genre>Mahjong,Juegos de mesa asiático</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Le Mahjong, vous connaissez ?Tout l'art de ce jeu réside dans l'art de choisir et de rejeter la bonne pièce. Il faut mémoriser les pièces visibles sur la table et savoir bloquer l'adversaire au bon moment.</synopsis>
-	<genre>Mahjong,Jeu de societe asiatique</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Mahjong,Asiatische Brettspiele</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>Um jogo mahjong onde você pode criar seu próprio rosto para seu personagem!</synopsis>
-	<genre>Mahjong,Jogo de tabuleiro Asiático</genre>
-	</locale>
-	<locale lang="JA">
-	<title>Mahjong Kyo Retsuden</title>
+	<genre>Board Game / Casino</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>麻将狂列传</title>
-	<genre>休闲 / 麻将</genre>
+		<title>M - 麻将狂列传</title>
+		<genre>棋牌</genre>
 	</locale>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -2863,30 +2801,11 @@ Você pode jogar o jogo nos modos single player ou contra um amigo no modo versu
 The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss. 
 
 The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Metal Slug es un juego de acción de scroll lateral para dos jugadores donde te enfrentas a una malvada organización militar que quiere dar un golpe de estado masivo y crear un nuevo orden mundial. 
-
-Puedes usar diversas armas además del propio Metal Slug, un pequeño tanque que encontrarás en determinados lugares y que aumenta considerablemente tu capacidad de destrucción. 
-
-Técnicamente el juego es un prodigio, escenarios detallados y animaciones sobresalientes hacen de este juego el referente número uno de su género.</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Metal Slug est un jeu d'action sur Neo Geo. Vous incarnez Marco Rossi et Tarma Roving, membres des Peregrine Falcons, en mission pour libérer de nombreux prisonniers. Face à vous, une horde d'ennemis qui veulent votre peau, et que vous devez donc annihiler, grâce notamment aux armes et véhicules que vous pouvez trouver en chemin.</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>Metal Slug, originalmente lançado no Neo Geo, é um side-scrolling shoot'em'up.nnnnO jogador(es) assume o papel de um soldado (ou dois) e luta contra um gigantesco exército. Cada nível consiste em correr para frente e explodir tudo o que se move, enquanto coleta power-ups ao longo do caminho (há também uma grande variedade de armas no jogo). No final de cada nível, o jogador enfrenta um chefe gigantesco.</synopsis>
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>合金弹头1</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 合金弹头1</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>Nazca Corporation</developer>
 		<publisher>SNK</publisher>
@@ -2905,27 +2824,11 @@ Técnicamente el juego es un prodigio, escenarios detallados y animaciones sobre
 	<locale lang="EN">
 	<title>Metal Slug 2 - Super Vehicle-001 II</title>
 	<synopsis>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Donald Morden, vuelve a llevar a cabo una serie de  ataques a lo largo y ancho del planeta con la intención de conquistarlo. Sorprendido, el Ejército Regular no entiende como puede ser posible que en tan poco tiempo, haya sido capaz de reunir efectivos suficientes para poner en jaque una vez más la estabilidad mundial. Moviliza a sus fuerzas especiales y envía nuevamente a los miembros del comando de los Halcones Peregrinos al campo de batalla (cuyas filas han aumentado tras la incorporación de Eri Kasamoto y Fiolina Germi), con el objetivo de vencer definitivamente al malvado general.
-Su sorpresa es máxima cuando descubren que el general ha pactado una alianza con unos extraños seres provenientes de Marte. Sin embargo, estos Mars People tienen intenciones que van más allá de la cooperación...</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Vous incarnez Marco, Eri, Tarma ou Fio dans Metal Slug 2 sur Neo Geo. Tout au long des niveaux, vous pouvez collecter de puissantes armes et conduire des véhicules dans le but de barrer la route au General Morden. La recette qui a fait le succès de son prédécesseur est ici reprise, et améliorée.</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>Como Marco, Eri, Tarma ou Fio, você deve derrotar o malvado General Morden e seus capangas. Para fazer isso, você deve derrotar vários inimigos que ficam no seu caminho. Ao longo do jogo, você pode coletar novas armas, incluindo Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Também espalhados por todo o jogo, você pode andar em quatro veículos diferentes (conhecidos como Slugs), como o Metal Slug, Slug Flyer, SlugNoid e Camel Slug. Ao usar esses veículos, você pode causar uma destruição impressionante contra o exército maligno de Morden. Outros itens, como energia, munição extra e comida (coma demais e seu jogador ganhará peso) também são encontrados durante o jogo.</synopsis>
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>合金弹头2</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 合金弹头2</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -2946,26 +2849,11 @@ Su sorpresa es máxima cuando descubren que el general ha pactado una alianza co
 	<synopsis>In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. You guide one of the heroes: Marco, Tarma, Eri or Fio as they blast their way through sidescrolling levels with a unique theme, filled with countless enemies and difficult bosses. You have to free hostages and you can ride bizarre vehicles such as camels, elephants, tanks and robots.
 
 In the Xbox version, additional game modes, such as Storming the Mothership and Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A co-op mode has been included, but no online multiplayer. The only Xbox Live feature available allows you to compare singleplayer scores.</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>La rebelión dirigida por el General Morden para lograr un nuevo régimen mundial es historia, y el orden y la paz ha comenzado a regresar al mundo...pero por poco tiempo. Morden intenta otro golpe de Estado, pero las fuerzas del Gobierno tenían previsto tal acto y se adelantan al inminente asalto.</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Metal Slug 3 est un jeu vidéo du type run and gun développé et édité par SNK en 2000 sur Neo-Geo MVS et Neo-Geo AES (NGM 256)1,2,3. C'est le quatrième épisode de la série Metal Slug, il a été porté sur PlayStation 2 en 2003 et sur Xbox en 2004 Xbox.</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>Na terceira parte da série Metal Slug, o General Morden está de volta e ele planeja estabelecer uma nova ordem mundial. Você guia um dos heróis: Marco, Tarma, Eri ou Fio enquanto eles abrem caminho através de níveis laterais com um tema único, repleto de incontáveis inimigos e chefes difíceis. Você tem que libertar os reféns e você pode montar veículos bizarros, como camelos, elefantes, tanques e robôs.</synopsis>
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>合金弹头3</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 合金弹头3</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -2985,26 +2873,11 @@ In the Xbox version, additional game modes, such as Storming the Mothership and 
 	<locale lang="EN">
 	<title>Metal Slug 4</title>
 	<synopsis>The 5th episode of the most famous arcade-shooting-series comes bringing the unaltered classic gameplay, a new weapon, 6 new vehicles as well as 2 new soldiers for the pantheon. The most notable introduction to the series is the Metalish System, giving to the player a new possibility to score more points: after pick up certain shield-shape emblems, a timer bar will be displayed at the top of the screen. During this time, you must to shoot rapidly as many enemies as possible and, depending on your acting, you will receive a corresponding badge bonus that will be added to your score after completing it. When you die, the bonus wears off.</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Una organización terrorista llamada Amadeus ha creado un virus informático que le permite controlar las armas militares a escala mundial. Para detener sus maléficos planes, entran en escena los veteranos Marco Rossi y Fio Germi, que esta vez van acompañados por los recién llegados Trevor Spacey y Nadia Cassel, dos miembros del Ejército Regular. Juntos, averiguan con horror que el general Morden está involucrado en dicha organización.</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Une organisation nommée Amadeus est sur le point de prendre le contrôle des ordinateurs des armées du monde entier grâce à un virus qu'elle a développé. Metal Slug 4 sur Neo Geo présente deux nouveaux héros, Nadia Cassel et Trevor Spacey, que vous devez guider à travers des niveaux fourmillant d'ennemis. Heureusement pour vous, un arsenal copieux est à votre disposition pour blaster à tour de bras.</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>O 5º episódio da mais famosa série de tiro dos arcades traz a jogabilidade clássica inalterada, uma nova arma, 6 novos veículos, bem como 2 novos soldados para o panteão. A introdução mais notável da série é o Sistema Metalish, dando ao jogador uma nova possibilidade de ganhar mais pontos: depois de pegar certos emblemas em forma de escudo, uma barra de cronômetro será exibida na parte superior da tela. Durante esse tempo, você deve atirar rapidamente no maior número de inimigos possível e, dependendo da sua atuação, você receberá um bônus correspondente a um distintivo que será adicionado à sua pontuação após completá-lo. Quando você morre, o bônus desaparece.</synopsis>
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>合金弹头4</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 合金弹头4</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>MEGA Enterprise</developer>
 		<publisher>SNK</publisher>
@@ -3023,26 +2896,11 @@ In the Xbox version, additional game modes, such as Storming the Mothership and 
 	<locale lang="EN">
 	<title>Metal Slug 5</title>
 	<synopsis>The latest installment of the most famous arcade-shooting series brings a lot of changes: this time, you will not face Morden's army like in the previous games, but with a new group of enemies that composes the already mentioned Ptolemaic Army. More content in this title, 3 guns and 2 vehicles from past games were reincorporated, as well as all brand new stuff of 3 vehicles. The most important addition is a sliding move: pressing the B Button when ducking will make your character slide for a short time in the ground. You are not be able to throw grenades, but your gun can be fired normally.</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Han robado un disco especial que contiene secretos de vital importancia sobre el proyecto Metal Slug. Al parecer, ha sido una organización misteriosa llamada El ejército de Ptolemaic, especializada en el espionaje arqueológico. Marco y Tarma, de la fuerza "Halcón", emprenden una misión de búsqueda de información al respecto, y en el proceso serán apoyados por Eri y Fio, de los "Sparrows". Juntos una vez más, el cuarteto investiga el objetivo del ejército de Ptolemaic.</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Les quatre héros mythiques de la série (Marco, Tarma, Eri et Fio) sont de retour dans Metal Slug 5 sur Neo Geo. Ils traquent cette fois-ci une organisation du crime qui a dérobé les plans des prochains Metal Slug. Trois nouveaux guns, deux véhicules, et un nouveau mouvement qu'est le "slide" constituent les améliorations de ce cinquième épisode.</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>A quinta edição da mais famosa série de tiro dos arcades traz muitas mudanças: desta vez, você não enfrentará o exército de Morden como nos jogos anteriores, mas um novo grupo de inimigos que compõe o já mencionado Exército Ptolemaico. Mais conteúdo neste título incluem 3 armas e 2 veículos de jogos passados foram reincorporados, assim como 3 novos veículos. A adição mais importante é um movimento deslizante: pressionar o botão B ao fazer o agachamento fará seu personagem deslizar por um curto período de tempo no solo. Você não será capaz de lançar granadas, mas sua arma pode ser disparada normalmente.</synopsis>
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>合金弹头5</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 合金弹头5</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -3092,31 +2950,11 @@ In the Xbox version, additional game modes, such as Storming the Mothership and 
 	<locale lang="EN">
 	<title>Metal Slug X - Super Vehicle-001</title>
 	<synopsis>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Remake mejorado de Metal Slug 2.
-El general de La Rebelión, Donald Morden, vuelve a llevar a cabo una serie de ataques. Sorprendido, el Ejército Regular moviliza a sus fuerzas especiales y envía nuevamente a los miembros del comando de los Halcones Peregrinos al campo de batalla, y así poder vencer definitivamente al malvado general. Lo que no esperan es que el general ha pactado una alianza con unos extraños seres provenientes de Marte...</synopsis>
-	<genre>Plataforma / Tirador con deslizamiento,Plataforma</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Remake de Metal Slug 2, cet opus ne s'est pas contenté de régler le problème de ralentissement, il a aussi apporté quelques nouveautés:
--De nouvelles armes font leurs apparitions: Iron Lizard, Drop Shot et ainsi que les versions plus puissantes des armes déjà existante.
--Deux nouveau véhicules: le Slug Noid et le Metal Slug Type-R (version plus résistante, plus puissante et plus rapide)
--Une refonte de tous les décors.
--Une nouvelle mise en scène dans la mission finale.</synopsis>
-	<genre>Plateforme / Shooter Scrolling,Plateforme</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Plattform / Shooter Scrolling,Plattform</genre>
-	</locale>
-	<locale lang="PT">
-	<synopsis>Metal Slug X é uma versão alternativa do Metal Slug 2. Diferente do primeiro jogo da franquia, Metal Slug X permite que você escolha os personagens Marco, Tarma, Eri e Fio.nnO General Morden derrotado por Marco e Tarma resolve se aliar a alienígenas que vem do espaço e a sua contínua ambição de conquistar o mundo.nnDurante as missões deve-se libertar os prisioneiros, estes oferecem armas e equipamentos que podem ser usados no combate.nnSão 6 missões até o final onde os alienígenas prendem Morden e o Exército se une para destruir os alienígenas e libertar o general.</synopsis>
-	<genre>Plataforma / Tiro com rolagem,Plataforma</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>合金弹头X</title>
-	<genre>平台 / 射击</genre>
+		<title>H - 合金弹头X</title>
+		<genre>射击 / 平台</genre>
 	</locale>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -3135,32 +2973,18 @@ El general de La Rebelión, Donald Morden, vuelve a llevar a cabo una serie de a
 	<locale lang="EN">
 	<title>Minasan no Okagesamadesu! Dai Sugoroku Taikai</title>
 	<synopsis>A difficult mahjong game with very odd characters and board game elements. This is based on the Japanese TV comedy show 'Minasan no Okage Desu' created by the Japanese comedy duo 'Tunnels', which ran on Fuji TV from 1988-97. Many of these characters appear in the game.</synopsis>
-	<genre>Asiatic board game</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Un juego de mahjong difícil con extraños personajes y elementos de juego de mesa. Basado en el programa de comedia de la televisión japonesa 'Minasan no Okage Desu' creado por el dúo de comedia japonesa 'Tunnels', que se emitió en Fuji TV de 1988 a 1997. Muchos de estos personajes aparecen en el juego.</synopsis>
-	<genre>Juegos de mesa asiático</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Un jeu de mahjong difficile avec des personnages très étranges et des éléments empruntés au jeu de plateau . Il est basé sur la comédie de la télévision japonaise 'Minasan no Okage Desu' créée par 'Tunnels', qui était diffusée sur Fuji TV de 1988-97. Beaucoup de ces personnages apparaissent dans le jeu.</synopsis>
-	<genre>Jeu de societe asiatique</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Asiatische Brettspiele</genre>
-	</locale>
-	<locale lang="JA">
-	<title>Minasan no Okagesamadesu! Dai Sugoroku Taikai</title>
+	<genre>Board Game / Casino</genre>
 	</locale>
 	<locale lang="ZHCN">
-	<title>麻将大富翁</title>
-	<genre>休闲</genre>
+		<title>M - 麻将大富翁</title>
+		<genre>棋牌</genre>
 	</locale>
 		<developer>Monolith (Japan)</developer>
 		<publisher>Monolith (Japan)</publisher>
 		<date year="1990" month="" day=""/>
 		<rating type="NOTE" value="4">
 		</rating>
-		<input players="">
+		<input players="1">
 			<control type="wiimote" required="true"/>
 			<control type="nunchuk" required="false"/>
 			<control type="classiccontroller" required="false"/>
@@ -3172,28 +2996,11 @@ El general de La Rebelión, Donald Morden, vuelve a llevar a cabo una serie de a
 	<locale lang="EN">
 	<title>Money Puzzle Exchanger</title>
 	<synopsis>MPE combines the gameplay mechanics of the Magical Drop games with some lightning-fast coin-counting addition--call it "Mathical Drop." Instead of bubbles, MPE players (most of whom are presented as schoolchildren in pastel-colored fantasy costumes) stack coins that combine to make higher denominations--five 1 coins will turn into a single 5, two 5's become a 10, five 10's turn into 50 and so forth, on up to 500 (two of those will disappear completely). One-player games offer either solo endurance rounds or matches against a ladder of CPU opponents, but as with MD, it's the two-player mode that makes the game the most fun.</synopsis>
-	<genre>Puzzle-Game / Throw</genre>
-	</locale>
-	<locale lang="ES">
-	<synopsis>Debes recoger monedas del mismo valor y organizarlas en la pantalla. Una vez que hayas recogido la cantidad correcta de dinero, las monedas se convertirán  a un valor más alto hasta alcanzar el  valor de 500, momento en el que desaparecen.  Consigue conversiones múltiples para obtener bonos más altos.</synopsis>
-	<genre>Rompecabezas / Lanzar,Rompecabezas</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Money Puzzle Exchanger sur Neo Geo est un puzzle-game dans lequel vous devez regrouper des pièces de même valeur par groupe de 4 ou plus afin de les faire disparaître. Au fur et à mesure, de nouvelles pièces font leur apparition en haut de l'écran et le but est de les classer assez vite pour ne pas finir surchargé.</synopsis>
-	<genre>Puzzle-Game / Lancer,Puzzle-Game</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Puzzle / Werfen,Puzzle</genre>
-	</locale>
-	<locale lang="PT">
-	<genre>Quebra-cabeças / Lançar,Quebra-cabeças</genre>
-	</locale>
-	<locale lang="JA">
-	<title>Money Idol Exchanger</title>
-	</locale>
+	<genre>Puzzle</genre>
+	</locale>	
 	<locale lang="ZHCN">
-	<title>金钱游戏</title>
-	<genre>益智 / 投掷消除</genre>
+	<title>J - 金钱游戏</title>
+	<genre>益智</genre>
 	</locale>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
@@ -3216,20 +3023,8 @@ El general de La Rebelión, Donald Morden, vuelve a llevar a cabo una serie de a
 Mutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.</synopsis>
 	<genre>Beat 'em up</genre>
 	</locale>
-	<locale lang="ES">
-	<synopsis>A finales del siglo XXI, un científico fuera de control realiza abominables experimentos genéticos en su laboratorio, hasta que por desgracia, tras crear un virus extremadamente contagioso que deforma a su portador, lo libera en el aire y provoca que todos los ciudadanos acaben transformándose, convirtiéndose en seres deformes que cumplen ciegamente las órdenes de su amo. 
-En el momento de la propagación de virus, dos jóvenes luchadores llamados Ricky Jones y Johnny Hart, huyen de la ciudad para evitar el contagio, aunque tiempo más tarde vuelven a ella, temerosos de que el científico pretenda volver a usar el virus en más ciudades. Su objetivo será acabar con él para evitar un posible contagio a nivel mundial.</synopsis>
-	<genre>Beat 'em up</genre>
-	</locale>
-	<locale lang="FR">
-	<synopsis>Des expériences génétiques ont très mal tourné et ont transformé toute la population d'un ville en mutants. Dans Mutation Nation sur Neo Geo, vous incarnez un des deux braves gaillards chargés de ramener l'ordre dans ce village maudit.</synopsis>
-	<genre>Beat'em All</genre>
-	</locale>
-	<locale lang="DE">
-	<genre>Beat 'em up</genre>
-	</locale>
 	<locale lang="ZHCN">
-	<title>外星游龙</title>
+	<title>W - 外星游龙</title>
 	<genre>动作</genre>
 	</locale>
 		<developer>SNK</developer>
@@ -4042,7 +3837,7 @@ The fact that you are not playing against a virtual opponent and that the bluff 
 	<title>Shin Goketsuji Ichizoku</title>
 	</locale>
 	<locale lang="ZHCN">
-	<title>新豪血寺一族</title>
+	<title>X - 新豪血寺一族</title>
 	<genre>格斗 / 对战</genre>
 	</locale>
 		<developer>Noise Factory</developer>
@@ -5253,7 +5048,7 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 There are several weapons to acquire, ranging from a yo-yo (the standard weapon) to bombs, icicles, missiles and more. Weapons differ in range, shooting frequency, and power, and can be shot in all directions. Each weapon also has a unique chargeable attack as well as a super-attack (which uses up one bomb-symbol).
 
 It is also possible to jump on enemies or perform a sliding attack.</synopsis>
-	<genre>Platform / Shooter Scrolling</genre>
+	<genre>Shooting / Platform</genre>
 	</locale>
 	<locale lang="ES">
 	<synopsis>Eres un aventurero en busca de las partes de un mapa secreto  del tesoro. Pero cuidado con el malvado Dr. Dokked, él a sus secuaces intentaran detenerte, y harán cualquier cosa para llegar al tesoro antes que tú.  ¡Usa tu yoyo para poner fin a los planes del Dr. Dokked!</synopsis>
@@ -5274,7 +5069,7 @@ It is also possible to jump on enemies or perform a sliding attack.</synopsis>
 	</locale>
 	<locale lang="ZHCN">
 	<title>强尼大冒险</title>
-	<genre>平台 / 射击</genre>
+	<genre>射击 / 平台</genre>
 	</locale>
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
