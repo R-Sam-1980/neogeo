@@ -1,0 +1,20 @@
+{
+  "version": "1.5",
+  "default_core_path": "usb:/apps/mslug2-usb/fbalpha2012_neogeo_libretro_wii.dol",
+  "default_core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 3,
+  "left_thumbnail_mode": 2,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 1,
+  "items": [
+    {
+      "path": "usb:/games/neogeo/mslug2.zip",
+      "label": "Metal Slug 2 - Super Vehicle-001 II",
+      "core_path": "usb:/apps/mslug2-usb/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "F03E8E61|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    }
+  ]
+}

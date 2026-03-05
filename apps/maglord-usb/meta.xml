@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1">
-  <name>Mahjong 3</name>
+  <name>Magician Lord</name>
   <author>Libretro &amp; R-Sam</author>
   <version>1.22.2.usb</version>
   <release_date>2025-11-20 10:41</release_date>
   <short_description>SNK Neo Geo Emulator</short_description>
-  <long_description>Bakatonosama Mahjong Manyuuki
+  <long_description>Magician Lord
 
-- Developer: Monolith
+- Developer: ADK
 - Publisher: SNK
-- Genre: Board Game / Casino
-- Release Date: 1991-12-20
-- Max Players: 1
+- Genre: Shooting / Platform
+- Release Date: 1990
+- Max Players: 2
 
 Wii Channel: usb:/wad/neogeo
 Website: https://github.com/R-Sam-1980/neogeo</long_description>
@@ -19,6 +19,6 @@ Website: https://github.com/R-Sam-1980/neogeo</long_description>
   <ahb_access/>
   <arguments>
     <arg>usb:/games/neogeo</arg>
-    <arg>bakatono.zip</arg>
+    <arg>maglord.zip</arg>
   </arguments>
 </app>
