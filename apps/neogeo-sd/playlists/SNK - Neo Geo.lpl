@@ -175,6 +175,78 @@
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
       "crc32": "E17515B2|crc",
       "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/magdrop2.zip",
+      "label": "Magical Drop II",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "D2B6ED66|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/magdrop3.zip",
+      "label": "Magical Drop III",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "9517A8C6|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/maglord.zip",
+      "label": "Magician Lord",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "91042B37|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mahretsu.zip",
+      "label": "Mahjong Kyo Retsuden",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "33F3A312|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/miexchng.zip",
+      "label": "Money Puzzle Exchanger",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "C8D7269B|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/minasan.zip",
+      "label": "Minasan no Okagesamadesu! Dai Sugoroku Taikai",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "53E5EEE6|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mslug.zip",
+      "label": "Metal Slug - Super Vehicle-001",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "AC6E93EA|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mslug2.zip",
+      "label": "Metal Slug 2 - Super Vehicle-001 II",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "F03E8E61|crc",
+      "db_name": "SNK - Neo Geo.lpl"
+    },
+    {
+      "path": "sd:/games/neogeo/mutnat.zip",
+      "label": "Mutation Nation",
+      "core_path": "sd:/apps/neogeo-sd/fbalpha2012_neogeo_libretro_wii.dol",
+      "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
+      "crc32": "E02616FB|crc",
+      "db_name": "SNK - Neo Geo.lpl"
     }
   ]
 }
