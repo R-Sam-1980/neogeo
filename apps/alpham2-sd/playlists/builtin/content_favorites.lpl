@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/alpham2.zip",
+      "path": "sd:/games/fba/neogeo/alpham2.zip",
       "label": "Alpha Mission II",
       "core_path": "sd:/apps/alpham2-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

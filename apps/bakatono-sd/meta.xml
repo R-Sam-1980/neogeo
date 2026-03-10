@@ -18,7 +18,7 @@ Website: https://github.com/R-Sam-1980/neogeo</long_description>
   <no_ios_reload/>
   <ahb_access/>
   <arguments>
-    <arg>sd:/games/neogeo</arg>
+    <arg>sd:/games/fba/neogeo</arg>
     <arg>bakatono.zip</arg>
   </arguments>
 </app>

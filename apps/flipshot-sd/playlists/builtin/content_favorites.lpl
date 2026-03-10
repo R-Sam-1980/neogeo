@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/flipshot.zip",
+      "path": "sd:/games/fba/neogeo/flipshot.zip",
       "label": "Battle Flip Shot",
       "core_path": "sd:/apps/flipshot-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

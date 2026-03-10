@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/breakrev.zip",
+      "path": "sd:/games/fba/neogeo/breakrev.zip",
       "label": "Breakers Revenge",
       "core_path": "sd:/apps/breakrev-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/bstars.zip",
+      "path": "sd:/games/fba/neogeo/bstars.zip",
       "label": "Baseball Stars Professional",
       "core_path": "sd:/apps/bstars-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/sonicwi3.zip",
+      "path": "sd:/games/fba/neogeo/sonicwi3.zip",
       "label": "Aero Fighters 3",
       "core_path": "sd:/apps/sonicwi3-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/aof.zip",
+      "path": "sd:/games/fba/neogeo/aof.zip",
       "label": "Art of Fighting",
       "core_path": "sd:/apps/aof-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

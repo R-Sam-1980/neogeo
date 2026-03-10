@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/minasan.zip",
+      "path": "sd:/games/fba/neogeo/minasan.zip",
       "label": "Minasan no Okagesamadesu! Dai Sugoroku Taikai",
       "core_path": "sd:/apps/minasan-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

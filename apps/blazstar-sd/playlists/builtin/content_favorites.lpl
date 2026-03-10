@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/neogeo/blazstar.zip",
+      "path": "sd:/games/fba/neogeo/blazstar.zip",
       "label": "Blazing Star",
       "core_path": "sd:/apps/blazstar-sd/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
