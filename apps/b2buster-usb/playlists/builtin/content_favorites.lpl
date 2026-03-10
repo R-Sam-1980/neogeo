@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/neogeo/b2buster.zip",
+      "path": "usb:/games/fba/neogeo/b2buster.zip",
       "label": "Bang Bang Busters",
       "core_path": "usb:/apps/b2buster-usb/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

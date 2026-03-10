@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/neogeo/mslug2.zip",
+      "path": "usb:/games/fba/neogeo/mslug2.zip",
       "label": "Metal Slug 2 - Super Vehicle-001 II",
       "core_path": "usb:/apps/mslug2-usb/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

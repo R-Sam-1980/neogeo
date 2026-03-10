@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/neogeo/magdrop3.zip",
+      "path": "usb:/games/fba/neogeo/magdrop3.zip",
       "label": "Magical Drop III",
       "core_path": "usb:/apps/magdrop3-usb/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/neogeo/aodk.zip",
+      "path": "usb:/games/fba/neogeo/aodk.zip",
       "label": "Aggressors of Dark Kombat",
       "core_path": "usb:/apps/aodk-usb/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

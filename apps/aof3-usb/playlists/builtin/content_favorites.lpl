@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/neogeo/aof3.zip",
+      "path": "usb:/games/fba/neogeo/aof3.zip",
       "label": "Art of Fighting 3 - The Path of the Warrior",
       "core_path": "usb:/apps/aof3-usb/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",

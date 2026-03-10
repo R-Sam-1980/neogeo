@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/neogeo/2020bb.zip",
+      "path": "usb:/games/fba/neogeo/2020bb.zip",
       "label": "2020 Super Baseball",
       "core_path": "usb:/apps/2020bb-usb/fbalpha2012_neogeo_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 Neo Geo)",
