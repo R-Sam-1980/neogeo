@@ -5,9 +5,9 @@
   <version>1.8.4.sd</version>
   <release_date>2022-01-07 13:47</release_date>
   <short_description>SNK Neo Geo Emulator</short_description>
-  <long_description>- Emulator for Neo Geo games larger than 23 MB.
-- Based on a snapshot of the FB Alpha codebase from circa 2012.
-- Compatible with FB Alpha v0.2.97.29 ROM sets.
+  <long_description>- Emulator for Neo Geo games larger than 23 MB
+- Based on a snapshot of the FB Alpha codebase from circa 2012
+- Compatible with FB Alpha v0.2.97.29 ROM sets
 
 Wii Channel: sd:/wad/neogeo
 Website: https://github.com/R-Sam-1980/neogeo</long_description>
