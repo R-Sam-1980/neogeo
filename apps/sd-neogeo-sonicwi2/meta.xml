@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Aero Fighters 2</name>
+  <author>Libretro &amp; R-Sam</author>
+  <version>1.22.2.sd</version>
+  <release_date>20251120</release_date>
+  <short_description>SNK Neo Geo Emulator</short_description>
+  <long_description>Aero Fighters 2
+
+- Developer: Video System
+- Publisher: SNK
+- Genre: Shooting / Vertical
+- Release Date: 1994-08-26
+- Max Players: 2
+
+Website: https://github.com/R-Sam-1980/neogeo</long_description>
+  <ahb_access/>
+  <arguments>
+    <arg>sd:/arcade/fba/neogeo</arg>
+    <arg>sonicwi2.zip</arg>
+  </arguments>
+</app>
